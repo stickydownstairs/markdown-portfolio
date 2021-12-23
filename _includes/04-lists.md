@@ -1,3 +1,4 @@
-❤️ noodles
-❤️ Animal Crossing
-:heart: zines
+* noodles
+* Animal Crossing
+    * Isabelle
+* zines
